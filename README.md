@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Welcome to my profile!</h1>
 
-<!--
-**MarcelMarzec/MarcelMarzec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h3 align="left">About Me</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">Hi, I'm Marcel! <br><br>I'm currently training to be a HGV driver in the UK and in my spare time I'm learning to develop IOS apps!<br>Soon I'm also wanting to document my journey on Youtube so check it out if your interested!</p>
+
+###
+
+<div align="left">
+  <a href="https://www.youtube.com/@AnotherDevLog-Marcel" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">Currently working on...</h3>
+
+###
+
+<p align="left">- Learning Swift for IOS Mobile Apps<br>- Updating and Maintaining Vatsim's PLVACC Vatglasses / Vatspy Data</p>
+
+###
