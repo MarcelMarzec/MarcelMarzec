@@ -18,6 +18,6 @@
 
 ###
 
-<p align="left">- Learning Swift for IOS Mobile Apps<br>- Updating and Maintaining Vatsim's PLVACC Vatglasses / Vatspy Data</p>
+<p align="left">- Learning Swift for IOS Mobile Apps<br>- Updating and Maintaining Vatsim's PLVACC Vatglasses, Vatspy and Simaware Data</p>
 
 ###
