@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I'm Marcel! <br><br>I'm currently training to be a HGV driver in the UK and in my spare time I'm learning to develop IOS apps!<br>Soon I'm also wanting to document my journey on Youtube so check it out if your interested!</p>
+<p align="left">Hi, I'm Marcel! <br><br>I'm a HGV driver in the UK and in my spare time I'm learning to develop IOS apps!<br>Soon I'm also wanting to document my journey on Youtube so check it out if your interested!</p>
 
 ###
 
